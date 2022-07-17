@@ -46,6 +46,8 @@ Now you have to series of commad to launch the terraform configuratino.
   terraform apply
 ```
 
+Goto your EC2 instance and check the launched VM.
+
 #### Destroy the Instance
 
 ```bash
