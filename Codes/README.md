@@ -51,7 +51,7 @@ Goto your EC2 instance and check the launched VM.
 #### Destroy the Instance
 
 ```bash
-  # TO destroy EC2 Instance
+  # TO destroy your EC2 Instance
   terraform destroy
 
   # To delete Terraform files
