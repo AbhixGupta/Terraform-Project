@@ -52,7 +52,9 @@ Open your respective operating system terminal and configure AWS credentials usi
   AWS Secret Access Key [None]: WL9G9Tl8lGm7w9t7B3NEDny1+w3N/K5F3HWtdFH/
   Default region name [None]: us-east-1
   Default output format [None]: json
+```
 
+```bash
 # Verify if we are able list S3 buckets
 aws s3 ls
 ```
