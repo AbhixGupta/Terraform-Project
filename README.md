@@ -1,3 +1,3 @@
 # Terraform Projects
 
-This repo will contain the series of project.
+This repo will contains project of Terraform.
